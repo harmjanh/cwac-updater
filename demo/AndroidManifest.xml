@@ -27,5 +27,4 @@
 
 		<receiver android:name="com.commonsware.cwac.updater.WakefulReceiver"/>
 	</application>
-
 </manifest>
